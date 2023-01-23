@@ -1,0 +1,48 @@
+*{
+    color: blue;
+
+}
+
+p, span{
+    color:crimson;
+    width: 800px;
+}
+
+/* 
+esto es un comentario
+*/
+body{
+    
+    background-color:rgb(67, 186, 139);
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    border: 1px 2px 3px 4px solid black;
+    padding: 15px; /*tambien se puede padding-top o bottom, etc*/
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+    margin-left: 10px;
+    margin-right: 12px;
+    /* margin: 20px */
+    font-weight: bold;
+    color: orchid;
+}
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi-parrafo {
+    color: yellow;
+    font-size: 28px;
+    border: 1px solid orange
+
+}
+
+.miclase{
+    font-weight: bold;
+    color: blueviolet;
+}
